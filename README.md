@@ -3,50 +3,50 @@ Linking with Tech
 GitHub Repositories:
 ====================
 
-* [AwesomePython](https://www.google.com/url?q=https://github.com/vinta/awesome-python&sa=D&source=editors&ust=1777099941796466&usg=AOvVaw0_8c8htUc2CfG6ddzmPzaO): Learning Python for AI + ML, backend systems, data science, web applications
-* [AwesomeCPP](https://www.google.com/url?q=https://github.com/fffaraz/awesome-cpp&sa=D&source=editors&ust=1777099941796685&usg=AOvVaw2wWuigqxqBWXf7xI67dtlp): Learning C++ for backend systems, data science
-* [AwesomeTypeScript](https://www.google.com/url?q=https://github.com/dzharii/awesome-typescript&sa=D&source=editors&ust=1777099941796844&usg=AOvVaw3jajPE3QdYexGs37Aycqvj): Learning TypeScript for frontend engineering, backend systems, web development
-* [YangShun Tech Interview Handbook](https://www.google.com/url?q=https://github.com/yangshun/tech-interview-handbook&sa=D&source=editors&ust=1777099941796998&usg=AOvVaw3dY3ZWHhm2NM0qL_-zu__s): Technical interview preparation
-* [ombharatiya](https://www.google.com/url?q=https://github.com/ombharatiya/FAANG-Coding-Interview-Questions&sa=D&source=editors&ust=1777099941797106&usg=AOvVaw1FymUpAR2r1PO3SCXqAhLI)[FAANG Coding Interview Questions](https://www.google.com/url?q=https://github.com/ombharatiya/FAANG-Coding-Interview-Questions&sa=D&source=editors&ust=1777099941797179&usg=AOvVaw2FqCTk7f73SDtVr4diQ_Jd): Technical interview preparation for breaking into big tech
-* [Simplify Job Board](https://www.google.com/url?q=https://github.com/SimplifyJobs/Summer2026-Internships&sa=D&source=editors&ust=1777099941797308&usg=AOvVaw0G11_UUAweLm_oqCtLwt1i): Job board for internships, early career
-* [Vansh & Ouckah Summer Internships Board](https://www.google.com/url?q=https://github.com/vanshb03/Summer2026-Internships&sa=D&source=editors&ust=1777099941797464&usg=AOvVaw1i_kuozxCQEEvi-PDW6A8B): Internship board for undergraduate student internships, post-graduate student internships
-* [ZOUHAIRFGRA Full Stack Project Ideas](https://www.google.com/url?q=https://github.com/ZOUHAIRFGRA/100-Project-Ideas-for-Full-Stack-Developers&sa=D&source=editors&ust=1777099941797640&usg=AOvVaw0lAZdqUF8lOWN9c1S6h0fU): Ready-to-go full-stack project ideas for those trying to prove their readiness for the tech industry
-* [DonneMartin System Design Primer](https://www.google.com/url?q=https://github.com/donnemartin/system-design-primer&sa=D&source=editors&ust=1777099941797849&usg=AOvVaw3ZVGBuIpZwTf45f1SZPwa7): Learning system design
-* [CodeCrafters Build Your Own X](https://www.google.com/url?q=https://github.com/codecrafters-io/build-your-own-x&sa=D&source=editors&ust=1777099941797960&usg=AOvVaw0vWT6wI4WiMLuzIft9CVr6): Coding tutorials for building high-signal projects
+* [AwesomePython](https://www.google.com/url?q=https://github.com/vinta/awesome-python&sa=D&source=editors&ust=1777100330807299&usg=AOvVaw2o6fotzgEJtCmx3esTOSQv): Learning Python for AI + ML, backend systems, data science, web applications
+* [AwesomeCPP](https://www.google.com/url?q=https://github.com/fffaraz/awesome-cpp&sa=D&source=editors&ust=1777100330807501&usg=AOvVaw0SH3EE7kyMgbd67p580D0m): Learning C++ for backend systems, data science
+* [AwesomeTypeScript](https://www.google.com/url?q=https://github.com/dzharii/awesome-typescript&sa=D&source=editors&ust=1777100330807647&usg=AOvVaw12CZeMZRyYkyQgHAFYXFZl): Learning TypeScript for frontend engineering, backend systems, web development
+* [YangShun Tech Interview Handbook](https://www.google.com/url?q=https://github.com/yangshun/tech-interview-handbook&sa=D&source=editors&ust=1777100330807814&usg=AOvVaw1Ie-3vQ7jrFSmXDblQdSHJ): Technical interview preparation
+* [ombharatiya](https://www.google.com/url?q=https://github.com/ombharatiya/FAANG-Coding-Interview-Questions&sa=D&source=editors&ust=1777100330807955&usg=AOvVaw1qTh7N_bKnlb4L_uJXPFFi)[FAANG Coding Interview Questions](https://www.google.com/url?q=https://github.com/ombharatiya/FAANG-Coding-Interview-Questions&sa=D&source=editors&ust=1777100330808033&usg=AOvVaw0KyeNAJmkvIVux-csSbGc4): Technical interview preparation for breaking into big tech
+* [Simplify Job Board](https://www.google.com/url?q=https://github.com/SimplifyJobs/Summer2026-Internships&sa=D&source=editors&ust=1777100330808173&usg=AOvVaw3VAMBo7KDSR3u8dY52U1HX): Job board for internships, early career
+* [Vansh & Ouckah Summer Internships Board](https://www.google.com/url?q=https://github.com/vanshb03/Summer2026-Internships&sa=D&source=editors&ust=1777100330808310&usg=AOvVaw1q8gp8Kl_EFrM_6fUS6Dy3): Internship board for undergraduate student internships, post-graduate student internships
+* [ZOUHAIRFGRA Full Stack Project Ideas](https://www.google.com/url?q=https://github.com/ZOUHAIRFGRA/100-Project-Ideas-for-Full-Stack-Developers&sa=D&source=editors&ust=1777100330808492&usg=AOvVaw30gcSReU67tN9Yq8cFneL8): Ready-to-go full-stack project ideas for those trying to prove their readiness for the tech industry
+* [DonneMartin System Design Primer](https://www.google.com/url?q=https://github.com/donnemartin/system-design-primer&sa=D&source=editors&ust=1777100330808665&usg=AOvVaw16dtGurHSSZz6ZaSAotfou): Learning system design
+* [CodeCrafters Build Your Own X](https://www.google.com/url?q=https://github.com/codecrafters-io/build-your-own-x&sa=D&source=editors&ust=1777100330808772&usg=AOvVaw2H8werxUd4zwS23xEeiGph): Coding tutorials for building high-signal projects
 
 Influencers (instagram, linkedin):
 ==================================
 
-* [zero2sudo](https://www.google.com/url?q=https://www.instagram.com/zero2sudo/&sa=D&source=editors&ust=1777099941798133&usg=AOvVaw1twSkLS_Q9z1LAiDbVe4At): SWE, Data, Quant, Business, recruitment for undergraduates and early career graduates
-* [itsellagonzales](https://www.google.com/url?q=https://www.instagram.com/itsellagonzales/&sa=D&source=editors&ust=1777099941798274&usg=AOvVaw019sWtp8putyMT2BrAJ8fu): Learning how to break into big tech, landing interviews, passing behavioral interviews
-* [s4.codes](https://www.google.com/url?q=https://www.instagram.com/s4.codes/&sa=D&source=editors&ust=1777099941798414&usg=AOvVaw1A1u-ReOFjzN8ofkh0gjh7): Learning how to optimize and write clean code
-* [this.girl.tech](https://www.google.com/url?q=https://www.instagram.com/this.girl.tech/&sa=D&source=editors&ust=1777099941798522&usg=AOvVaw2G8vQ7fhjTT_j9YhqDdwdz): Designing systems properly, project ideas
-* [arjay\_the\_dev](https://www.google.com/url?q=https://www.instagram.com/arjay_the_dev/&sa=D&source=editors&ust=1777099941798627&usg=AOvVaw2S69WzgYCBBRmdXl8rWE-R): System design
+* [zero2sudo](https://www.google.com/url?q=https://www.instagram.com/zero2sudo/&sa=D&source=editors&ust=1777100330808956&usg=AOvVaw0UE3A3tviSICTvFBhDDmOf): SWE, Data, Quant, Business, recruitment for undergraduates and early career graduates
+* [itsellagonzales](https://www.google.com/url?q=https://www.instagram.com/itsellagonzales/&sa=D&source=editors&ust=1777100330809096&usg=AOvVaw1gcF5R-Cmde03mSG5yzGZy): Learning how to break into big tech, landing interviews, passing behavioral interviews
+* [s4.codes](https://www.google.com/url?q=https://www.instagram.com/s4.codes/&sa=D&source=editors&ust=1777100330809240&usg=AOvVaw0pTC2ok-IEkVD4Zbgb1ud1): Learning how to optimize and write clean code
+* [this.girl.tech](https://www.google.com/url?q=https://www.instagram.com/this.girl.tech/&sa=D&source=editors&ust=1777100330809358&usg=AOvVaw1BrpTSLxun6YGVFYu-6MDv): Designing systems properly, project ideas
+* [arjay\_the\_dev](https://www.google.com/url?q=https://www.instagram.com/arjay_the_dev/&sa=D&source=editors&ust=1777100330809465&usg=AOvVaw3H7bJmZvB9DQmsPTEfeAEs): System design
 
   ---
 
 Websites:
 =========
 
-* [Levels.fyi](https://www.google.com/url?q=https://www.levels.fyi/?tab%3Dlevels&sa=D&source=editors&ust=1777099941798805&usg=AOvVaw2P6dj5enkLr1vCVo9SZ_7d): Website for estimating salaries for early career and late career jobs
-* [VisuAlgo](https://www.google.com/url?q=https://visualgo.net/en&sa=D&source=editors&ust=1777099941798925&usg=AOvVaw3oZJISLELwk2EQnTiD8BA3): Website for visualizing data structures, search and sorting algorithms
-* [CS 1332 Data Structures and Algorithms Visualizations](https://www.google.com/url?q=https://csvistool.com/&sa=D&source=editors&ust=1777099941799075&usg=AOvVaw3FVhfYQPW1DvEAXUVLw69r): Website for visualizing data structures, search and sorting algorithms
-* [Full stack open](https://www.google.com/url?q=https://fullstackopen.com/en/&sa=D&source=editors&ust=1777099941799197&usg=AOvVaw0XdSbtkeNTE7VRXEC3htPa): Learning full-stack development with React, TypeScript, Node.js, Express.js, GraphQL, React Native
-* [Roast My Resume](https://www.google.com/url?q=https://www.roast-my-resume.com/&sa=D&source=editors&ust=1777099941799344&usg=AOvVaw3XzW9VuM507iTA3hT3uPMz): Satirical (sort of) resume feedback web app
-* [The Odin Project](https://www.google.com/url?q=https://www.theodinproject.com/&sa=D&source=editors&ust=1777099941799469&usg=AOvVaw0aDysURbe6oZWI4aFhpXw3): Learn web development with React, HTML, Javascript, Node.js, Ruby (on Rails), SQL (PostgreSQL)
+* [Levels.fyi](https://www.google.com/url?q=https://www.levels.fyi/?tab%3Dlevels&sa=D&source=editors&ust=1777100330809605&usg=AOvVaw2Es3A_U0MOQe769qz4iH8c): Website for estimating salaries for early career and late career jobs
+* [VisuAlgo](https://www.google.com/url?q=https://visualgo.net/en&sa=D&source=editors&ust=1777100330809730&usg=AOvVaw3mggl7xYhrJt8wxrQ6diBm): Website for visualizing data structures, search and sorting algorithms
+* [CS 1332 Data Structures and Algorithms Visualizations](https://www.google.com/url?q=https://csvistool.com/&sa=D&source=editors&ust=1777100330809901&usg=AOvVaw0KdjbMG60YbCumwSTC9PEc): Website for visualizing data structures, search and sorting algorithms
+* [Full stack open](https://www.google.com/url?q=https://fullstackopen.com/en/&sa=D&source=editors&ust=1777100330810025&usg=AOvVaw0H1nxBuXHYkGNeirY-iMrV): Learning full-stack development with React, TypeScript, Node.js, Express.js, GraphQL, React Native
+* [Roast My Resume](https://www.google.com/url?q=https://www.roast-my-resume.com/&sa=D&source=editors&ust=1777100330810192&usg=AOvVaw1Q3HGVoGy3A29zeQVj9bg9): Satirical (sort of) resume feedback web app
+* [The Odin Project](https://www.google.com/url?q=https://www.theodinproject.com/&sa=D&source=editors&ust=1777100330810311&usg=AOvVaw1hl1m5XPQXNKhIB8ME994G): Learn web development with React, HTML, Javascript, Node.js, Ruby (on Rails), SQL (PostgreSQL)
 
 YouTube Channels:
 =================
 
-* [Bro Code](https://www.google.com/url?q=https://www.youtube.com/@BroCodez&sa=D&source=editors&ust=1777099941799657&usg=AOvVaw06SgLI9WpMHAdTsKA-LBLn): Learn literally anything – AI + ML, Java, Python, C++, SQL, data structures and algorithms, HTML, CSS, JavaScript
-* [Steve Brunton](https://www.google.com/url?q=https://www.youtube.com/@Eigensteve&sa=D&source=editors&ust=1777099941799812&usg=AOvVaw2gcfchajbdDGT3SeVq4WYS): Learn machine learning, neural networks, statistics, computational math
-* [Abdul Bari](https://www.google.com/url?q=https://www.youtube.com/@abdul_bari&sa=D&source=editors&ust=1777099941799935&usg=AOvVaw28mITE6nWVX4V9d76y30wK): Learn how to approach data structures both in practice and in technical interviews
-* [Michael Sambol](https://www.google.com/url?q=https://www.youtube.com/@MichaelSambol&sa=D&source=editors&ust=1777099941800071&usg=AOvVaw3BRTHtGO4mVE05lfJMkbXG): Learn data structures and algorithms
-* [NeetCode](https://www.google.com/url?q=https://www.youtube.com/@NeetCode&sa=D&source=editors&ust=1777099941800171&usg=AOvVaw03l6hDNUnJFYPhet_qkicC): Learn data structures and algorithm for interview preparation
-* [Web Dev Simplified](https://www.google.com/url?q=https://www.youtube.com/@WebDevSimplified&sa=D&source=editors&ust=1777099941800298&usg=AOvVaw2kKvBDwo-8qO1s3t54rqtY): Learn any sorts of frontend development with SQL (MySQL, PostgreSQL, MongoDB), HTML, CSS, React, Node, Express, Javascript
-* [Programming with Mosh](https://www.google.com/url?q=https://www.youtube.com/@programmingwithmosh&sa=D&source=editors&ust=1777099941800471&usg=AOvVaw1YGJjtYa9Uf0nSkLt39TZP): Learn TypeScript for beginners
-* [Arjay McCandless](https://www.google.com/url?q=https://www.youtube.com/@arjay_the_dev/videos&sa=D&source=editors&ust=1777099941800574&usg=AOvVaw2V1vAjA-RjLJ29nds7EtzA): System design
-* [Paul Hudson](https://www.google.com/url?q=https://www.youtube.com/@twostraws&sa=D&source=editors&ust=1777099941800659&usg=AOvVaw0ZFpvyYRFC52hc5WvPSQ5N): Learn iOS mobile development
+* [Bro Code](https://www.google.com/url?q=https://www.youtube.com/@BroCodez&sa=D&source=editors&ust=1777100330810521&usg=AOvVaw3BlFsF9Y0FwD4Aj0PK4zxL): Learn literally anything – AI + ML, Java, Python, C++, SQL, data structures and algorithms, HTML, CSS, JavaScript
+* [Steve Brunton](https://www.google.com/url?q=https://www.youtube.com/@Eigensteve&sa=D&source=editors&ust=1777100330810689&usg=AOvVaw040tLQgwZNudpotBNXcUTx): Learn machine learning, neural networks, statistics, computational math
+* [Abdul Bari](https://www.google.com/url?q=https://www.youtube.com/@abdul_bari&sa=D&source=editors&ust=1777100330810842&usg=AOvVaw2b7J7X7yXxFlQ5oOpBcbhk): Learn how to approach data structures both in practice and in technical interviews
+* [Michael Sambol](https://www.google.com/url?q=https://www.youtube.com/@MichaelSambol&sa=D&source=editors&ust=1777100330811034&usg=AOvVaw02nY_nj-9cUjDgjP0to_9O): Learn data structures and algorithms
+* [NeetCode](https://www.google.com/url?q=https://www.youtube.com/@NeetCode&sa=D&source=editors&ust=1777100330811139&usg=AOvVaw3hvK90bHARulkU3sCPAOpz): Learn data structures and algorithm for interview preparation
+* [Web Dev Simplified](https://www.google.com/url?q=https://www.youtube.com/@WebDevSimplified&sa=D&source=editors&ust=1777100330811268&usg=AOvVaw2EA710Byh6GA_7lCKXagZB): Learn any sorts of frontend development with SQL (MySQL, PostgreSQL, MongoDB), HTML, CSS, React, Node, Express, Javascript
+* [Programming with Mosh](https://www.google.com/url?q=https://www.youtube.com/@programmingwithmosh&sa=D&source=editors&ust=1777100330811448&usg=AOvVaw3lnAu4PH1DUwqt-KnpF6VK): Learn TypeScript for beginners
+* [Arjay McCandless](https://www.google.com/url?q=https://www.youtube.com/@arjay_the_dev/videos&sa=D&source=editors&ust=1777100330811558&usg=AOvVaw1qXC6RyEEPL3mg8Plx2A3N): System design
+* [Paul Hudson](https://www.google.com/url?q=https://www.youtube.com/@twostraws&sa=D&source=editors&ust=1777100330811657&usg=AOvVaw09jvZ-mJEZKk4Grr7dqUQO): Learn iOS mobile development
 
 Uber
 
@@ -442,11 +442,11 @@ Special Programs
 
 ---
 
-[UberSTAR Internship Program](https://www.google.com/url?q=https://www.geeksforgeeks.org/gfg-academy/uberstar-internship-program/&sa=D&source=editors&ust=1777099941809616&usg=AOvVaw0p9J35YY7Sb53aO5IvzeX2)
+[UberSTAR Internship Program](https://www.google.com/url?q=https://www.geeksforgeeks.org/gfg-academy/uberstar-internship-program/&sa=D&source=editors&ust=1777100330821175&usg=AOvVaw2J_Sl6duhOBB9_xt5pwX-a)
 
 * For college students
 
-[Uber Career Prep Program](https://www.google.com/url?q=https://pages.beamery.com/uber/page/ucp25&sa=D&source=editors&ust=1777099941809774&usg=AOvVaw1U7l2pZ0c1hQld9I5bfxPL)
+[Uber Career Prep Program](https://www.google.com/url?q=https://pages.beamery.com/uber/page/ucp25&sa=D&source=editors&ust=1777100330821365&usg=AOvVaw1PiFC1A13w5_7V3X3qHsza)
 
 * For college students
 
